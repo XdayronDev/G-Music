@@ -111,7 +111,7 @@ Ejemplos: `1` o` 1,2,3`
 * Alternar la eliminación de mensajes de bot (!pruning)
 * Localización en mas de 6 idiomas
 * Ayuda (!help, !h)
-* Creado con comandos handler, Gracias a [Guia de Discord.js](https://discordjs.guide/)
+* Creado con comandos handler, Gracias a [Guia de Discord.js](https://portalmybot.com/guia/mybot/inicio)
 * Controles de medios a través de reacciones
 
 ![Reacciones](https://i.imgur.com/ptTCcS4.png)
