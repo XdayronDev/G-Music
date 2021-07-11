@@ -1,0 +1,7 @@
+{
+  "name": "G-Music",
+  "description": "🤖 Discord Music Bot construido con discord.js",
+  "repository": "https://github.com/XdayronDev/G-Music",
+  "logo": "https://i.imgur.com/73OfCtg.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
