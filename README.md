@@ -1,4 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/DeltaCoderr/KarmaBot)](https://repl.it/github/XdayronDev/G-Music)
 [![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/e9E8zBYXJf)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org/#/)
 ![logo](https://i.imgur.com/73OfCtg.png)
 
 # 🤖 G-Music (Bot de Musica Discord)
@@ -116,4 +118,7 @@ Ejemplos: `1` o` 1,2,3`
 * Controles de medios a través de reacciones
 
 ![Reacciones](https://i.imgur.com/ptTCcS4.png)
-
+* **Tiene Preguntas/Sugerencias? Te respondemos en el servidor de soporte**
+</br></br>
+<a href="https://discord.gg/e9E8zBYXJf"><img src="https://invidget.switchblade.xyz/e9E8zBYXJf"/></a>
+<br><br>
