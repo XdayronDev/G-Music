@@ -6,6 +6,12 @@
 # 🤖 G-Music (Bot de Musica Discord)
 > G-Music es un bot de musica construido con discord.js y usa Comandos  Handler para [Guia de Discord.js](https://discordjs.guide)
 
+## Invite the Bot 💕
+
+<a href="https://top.gg/bot/863573454920613929">
+    <img src="https://top.gg/api/widget/863573454920613929.svg" alt="G-Music Bot" />
+</a>
+
 ## Status 📥
 
 [![Estado](https://top.gg/api/widget/status/863573454920613929.svg)](https://top.gg/bot/863573454920613929)
@@ -77,19 +83,19 @@ Idiomas que encontraras:
 
 * 🎶 Reproducir música de YouTube a través de URL
 
-`!play https://www.youtube.com/watch?v=GLvohMXgcBo`
+`!play https://www.youtube.com/watch?v=doLMt10ytHY`
 
 * 🔎 Reproducir música de YouTube a través de una consulta de búsqueda
 
-`!play under the bridge red hot chili peppers`
+`!play fiel rmx`
 
 * 🎶 Reproducir música de Soundcloud a través de URL
 
-`!play https://soundcloud.com/blackhorsebrigade/pearl-jam-alive`
+`!play https://soundcloud.com/imerickfinesse-742386424/lagrimas-de-un-mal`
 
 * 🔎 Busca y selecciona música para reproducir
 
-`!search Pearl Jam`
+`!search lagrimas de un mal`
 
 Responda con el número de la canción o los números separados por comas que desea reproducir
 
@@ -97,11 +103,11 @@ Ejemplos: `1` o` 1,2,3`
 
 * 📃 Reproducir listas de reproducción de youtube a través de URL
 
-`!playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
+`!playlist https://www.youtube.com/watch?v=kPc3Pe42bGI&list=PLkqz3S84Tw-SgB7NcQjqpvE_z6veqjAu6`
 
 * 🔎 Reproducir listas de reproducción de youtube a través de una consulta de búsqueda
 
-`!playlist linkin park meteora`
+`!playlist Oasis jbalvin playlist`
 * Now Playing (!np)
 * Cola de reproduccion (!queue, !q)
 * Bucle / Repetir (!loop)
