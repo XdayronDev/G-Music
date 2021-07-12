@@ -6,6 +6,13 @@
 # 🤖 G-Music (Bot de Musica Discord)
 > G-Music es un bot de musica construido con discord.js y usa Comandos  Handler para [Guia de Discord.js](https://discordjs.guide)
 
+## Status 📥
+
+[![Estado](https://top.gg/api/widget/status/863573454920613929.svg)](https://top.gg/bot/863573454920613929)
+[![Servidores](https://top.gg/api/widget/servers/863573454920613929.svg)](https://top.gg/bot/863573454920613929)
+[![Lib](https://top.gg/api/widget/lib/863573454920613929.svg)](https://top.gg/bot/863573454920613929)
+[![Owner](https://top.gg/api/widget/owner/863573454920613929.svg)](https://top.gg/bot/863573454920613929)
+
 ## Requerimientos
 
 1. Discord Bot Token **[Guia](https://portalmybot.com/guia/mybot/cuenta-discord)**
